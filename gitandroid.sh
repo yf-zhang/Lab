@@ -10,7 +10,7 @@
 # Description:	a shell to download android source form github.com/android
 # Modify:
 # Revision	Author		comment
-# 1.1		Geek_Soledad	完成完成了多少
+# 1.1		Geek_Soledad	完成了多少
 # --------------------------------------------------------------------------
 # Copyright (c) 2013 CFuture09, Institute of Software, 
 # Guangdong Ocean University, Zhanjiang, GuangDong, China.
